@@ -3,12 +3,12 @@ entries:
   chart1:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-05-25T13:14:10.742513136-04:00"
+    created: "2022-06-13T19:01:33.149979868-04:00"
     description: A Helm chart for Kubernetes
-    digest: 7fb731e0e3ea4047be1df6883e084683cefba802df6352a4590ce46e40e2e41d
+    digest: 6db7130f05ac61957a77ee171d1d9954d8966943b84d97916ff509dc4deccd89
     name: chart1
     type: application
     urls:
-    - https://gboie.github.io/chart1/chart1-0.1.0.tgz
-    version: 0.1.0
-generated: "2022-05-25T13:14:10.741755659-04:00"
+    - https://gboie.github.io/chart1/chart1-0.2.0.tgz
+    version: 0.2.0
+generated: "2022-06-13T19:01:33.149589162-04:00"
